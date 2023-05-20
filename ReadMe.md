@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on whatever catches my interest.<br>* graphs + pathfinding<br>* docker + spring + postgres
+I'm currently working on whatever catches my interest.
 
 
 ## 🌐 Socials:
